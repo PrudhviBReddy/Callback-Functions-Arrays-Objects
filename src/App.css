@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.markssheet{
+  width: 500px;
+  height: 400px;
+  box-shadow: 0 0 10px black;
+  border-radius: 20px;
+  display: inline-block;
+  padding: 25px;
+  margin: 20px;
+}
+.markssheet label{
+  display: inline-block;
+  width: 100px;
+}
+.markssheet div{
+  margin: 15px;
+}
+.markssheet span{
+  display: inline-block;
+  width: 100px;
+  text-align: left;
+  margin-left: 10px;
+}
